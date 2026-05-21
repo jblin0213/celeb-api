@@ -1,0 +1,12 @@
+{
+  "name": "celeb-api",
+  "version": "1.0.0",
+  "description": "名人資料查詢 API Proxy for JB 九宮姓名",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
